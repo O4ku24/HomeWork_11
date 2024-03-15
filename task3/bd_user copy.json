@@ -1,0 +1,22 @@
+{
+    "count":2,
+    
+    "users":{
+        "1":{
+        "id":1,
+        "last_name": "Роман",
+        "first_name": "Андреев",
+        "number_fone": 89233302882,
+        "post":"admin",
+        "office":23
+            },
+        "2":{
+        "id":2,
+        "last_name": "Денис",
+        "first_name": "Калашников",
+        "number_fone": 2154210,
+        "post":"jonjanitor",
+        "office":24
+            }
+        }
+}
